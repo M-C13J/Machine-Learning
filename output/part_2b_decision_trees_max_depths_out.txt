@@ -1,0 +1,11 @@
+Model id [1…10], max depth: [value], accuracy: [score], balanced accuracy: [score]
+Model id: 1, max depth: 1, accuracy: 0.48214285714285715, balanced accuracy: 0.2935672514619883
+Model id: 2, max depth: 2, accuracy: 0.4642857142857143, balanced accuracy: 0.2983519404572036
+Model id: 3, max depth: 3, accuracy: 0.5, balanced accuracy: 0.3521758942811575
+Model id: 4, max depth: 4, accuracy: 0.4642857142857143, balanced accuracy: 0.3081567555251766
+Model id: 5, max depth: 5, accuracy: 0.44642857142857145, balanced accuracy: 0.48651932862459174
+Model id: 6, max depth: 6, accuracy: 0.4107142857142857, balanced accuracy: 0.49648363332573864
+Model id: 7, max depth: 7, accuracy: 0.44642857142857145, balanced accuracy: 0.5257765626186679
+Model id: 8, max depth: 8, accuracy: 0.44642857142857145, balanced accuracy: 0.5251917672970305
+Model id: 9, max depth: 9, accuracy: 0.42857142857142855, balanced accuracy: 0.5146654515075568
+Model id: 10, max depth: 10, accuracy: 0.48214285714285715, balanced accuracy: 0.5796005164426218

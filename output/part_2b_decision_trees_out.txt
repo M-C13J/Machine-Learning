@@ -1,0 +1,6 @@
+Decision Tree Classifier Configuration:
+Criterion: entropy
+Max Depth: 2
+
+Performance Scores:
+Decision Tree Accuracy: 0.4642857142857143

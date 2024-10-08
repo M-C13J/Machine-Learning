@@ -1,0 +1,23 @@
+C:\Users\Maciej\PycharmProjects\pythonProject\venv\Scripts\python.exe C:\Users\Maciej\PycharmProjects\pythonProject\scripts\part_2a_quality_attributes.py 
+Stiff neck:
+Contingency Table: [[1 3]
+ [5 2]]
+Information Gain: 0.9709505943103991
+Gini Impurity: 0.48
+Chi-squared statistic: 2.213095238095238
+
+Headache:
+Contingency Table: [[3 1]
+ [2 4]]
+Information Gain: 0.7219280947430928
+Gini Impurity: 0.31999999999999984
+Chi-squared statistic: 1.6666666666666665
+
+Spots:
+Contingency Table: [[3 2]
+ [1 4]]
+Information Gain: 0.9182958339102198
+Gini Impurity: 0.4444444444444444
+Chi-squared statistic: 1.6666666666666665
+
+Process finished with exit code 0

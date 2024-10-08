@@ -1,0 +1,24 @@
+Number of cases before processing: 286
+Number of attributes in the dataset: 9
+Number of cases after processing: 277
+
+--- Categorical Column Transformation ---
+
+Original Column: Menopause
+Number of Binary Columns Generated: 1
+
+Original Column: Node_Caps
+Number of Binary Columns Generated: 1
+
+Original Column: Breast
+Number of Binary Columns Generated: 1
+
+Original Column: Breast_Quad
+Number of Binary Columns Generated: 1
+
+Original Column: Irradiat
+Number of Binary Columns Generated: 1
+
+--- Target/Class Encoding ---
+Original Target/Class Values: ['20-29' '30-39' '40-49' '50-59' '60-69' '70-79']
+Encoded Values: [0 1 2 3 4 5]
